@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/LibreCat/Catmandu-SFX/issues"
+      },
+      "homepage" : "https://github.com/LibreCat/Catmandu-SFX",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/LibreCat/Catmandu-SFX.git",
+         "web" : "https://github.com/LibreCat/Catmandu-SFX"
+      }
+   },
    "version" : "0.01"
 }
 
