@@ -44,7 +44,10 @@
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.96"
+            "JSON" : "2.90",
+            "Test::Exception" : "0",
+            "Test::More" : "0",
+            "Test::Pod" : "0"
          }
       }
    },
@@ -60,7 +63,7 @@
          "web" : "https://github.com/LibreCat/Catmandu-SFX"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_contributors" : [
       "Mohammad S Anwar <mohammad.anwar@yahoo.com>"
    ],
