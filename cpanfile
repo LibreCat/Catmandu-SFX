@@ -7,3 +7,4 @@ on test => sub {
 };
 
 requires 'Catmandu','0.9210';
+requires 'Moo', '0';
